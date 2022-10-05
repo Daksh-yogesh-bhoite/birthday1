@@ -1,0 +1,17 @@
+body{
+    background-color: chartreuse;
+}
+
+#text{
+    font-size: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif  ;
+    font-weight: bold;
+    margin-top: 0px;
+    color: red;
+}
+
+.quote{
+    font-weight: bold;
+    font-size: 30px;
+    color: black;
+}
